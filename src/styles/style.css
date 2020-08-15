@@ -1,0 +1,9 @@
+
+ /*импорт пакета из node modules*/
+@import '~normalize.css';
+ /*пример с импортом*/
+@import 'font.css';
+
+h1 {
+    color: red;
+}
